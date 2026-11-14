@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Training outputs
+runs/
+wandb/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
